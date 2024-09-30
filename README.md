@@ -9,9 +9,10 @@
 
 ###
 
-<p align="left">A FullStack developer from America<br></br> -🔭 I’m currently working on Nothing! <br></br> -🌱 I’m currently learning Rust and Cybersecurity basics <br></br> -⚡In my free time I make Garry's Mod addons</p>
+<p align="left">A FullStack developer from America<br></br> -🔭 I’m currently working on ryustrange.dev! <br></br> -🌱 I’m currently learning Rust and Cybersecurity basics <br></br> -⚡In my free time I make Garry's Mod addons</p>
 
 ###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
