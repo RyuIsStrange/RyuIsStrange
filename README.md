@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">A FullStack developer from America<br></br> -🔭 I’m currently working on <a href="https://ryustrange.dev" target="_blank">ryustrange.dev!<a> <br></br> -🌱 I’m currently learning Rust and Cybersecurity basics <br></br> -⚡In my free time I make Garry's Mod addons</p>
+<p align="left">I am an aspiring self-taugh developer from America<br></br> -🔭 I’m currently working on <a href="https://ryustrange.dev" target="_blank">ryustrange.dev!<a> <br></br> -🌱 I’m currently learning Rust and Cybersecurity basics <br></br> -⚡In my free time I make Garry's Mod addons</p>
 
 ###
 
