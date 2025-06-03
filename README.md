@@ -12,11 +12,11 @@
 <p align="left">
   I am an aspiring self-taugh developer from America
   <br/> 
-  -🔭 I’m currently working on <a href="https://ryustrange.dev" target="_blank">ryustrange.dev!<a> 
+  -🔭 I’m currently working @ <a href="https://teracast.net">Teracast.net</a>
   <br/> 
   -🌱 I’m currently learning Rust and Cybersecurity basics 
   <br/> 
-  -⚡In my free time I work on random projects I have.
+  -⚡In my free time I work on <a href="https://ryustrange.dev" target="_blank">ryustrange.dev.</a>
 </p>
 
 ###
