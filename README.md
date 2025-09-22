@@ -38,6 +38,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"/> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="lua logo"/> <img width="12" />
 </div>
+
+</br>
+
+<div align="center">
+    <a href="https://open.spotify.com/user/icebare098">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=icebare098&count=5&unique=false" alt="Spotify recently played"  />
+    </a>
+</div>
+
+<!-- <div class="flex">
+  <div align="left">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=RyuIsStrange.RyuIsStrange&"  />
+  </div>
+  
+  <div align="left">
+    <a href="https://open.spotify.com/user/icebare098">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=icebare098&count=5&unique=false" alt="Spotify recently played"  />
+    </a>
+  </div>
+
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=RyuIsStrange&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RyuIsStrange&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  </div>
+</div>
+-->
+
 <!--
 **RyuIsStrange/RyuIsStrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
