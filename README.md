@@ -1,6 +1,6 @@
 ### 
 
-<h1 align="center">Hi👋, I'm RyuIsStrange, however, most people call me Ryu. </h1>
+<h1 align="center">Hi👋, I'm Ryu. A mostly self taught Software Engineer. </h1>
 
 ###
 
