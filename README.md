@@ -10,7 +10,7 @@
 ###
 
 <p align="left">
-  I am an aspiring self-taugh developer from America
+  I am an aspiring self-taught developer from America
   <br/> 
   -🔭 I’m currently working @ <a href="https://teracast.net">Teracast.net</a>
   <br/> 
