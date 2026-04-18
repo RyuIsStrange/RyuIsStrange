@@ -14,7 +14,7 @@
   <br/> 
   -🌱 I’m currently expanding my skills in Rust and pursuing a degree in Computer Science   
   <br/> 
-  -⚡In my free time I am working on my <a href="/Distributed-Task-Scheduler">Distributed Task Scheduler</a>
+  -⚡In my free time I am working on my <a href="https://github.com/RyuIsStrange/Distributed-Task-Scheduler">Distributed Task Scheduler</a>
 </p>
 
 ###
@@ -45,13 +45,12 @@
 
 </br>
 
-<!--
 <div align="center">
     <a href="https://open.spotify.com/user/icebare098">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=icebare098&count=5&unique=false" alt="Spotify recently played"  />
     </a>
 </div>
---!>
+
 
 <!--
 **RyuIsStrange/RyuIsStrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
