@@ -1,6 +1,6 @@
 ### 
 
-<h1 align="center">Hi👋, I'm Ryu. A mostly self taught Software Engineer. </h1>
+<h1 align="center">Hi👋, I'm Ryu. A  self taught Software Engineer. </h1>
 
 ###
 
@@ -12,33 +12,36 @@
 <p align="left">
   I am an aspiring self-taught developer from America
   <br/> 
-  -🔭 I’m currently working @ <a href="https://teracast.net">Teracast.net</a>
+  -🌱 I’m currently expanding my skills in Rust and pursuing a degree in Computer Science   
   <br/> 
-  -🌱 I’m currently learning Rust and Cybersecurity basics 
-  <br/> 
-  -⚡In my free time I work on <a href="https://ryustrange.dev" target="_blank">ryustrange.dev.</a>
+  -⚡In my free time I am working on my <a href="/Distributed-Task-Scheduler>Distributed Task Scheduler</a>
 </p>
 
 ###
 
-
-<h3 align="left">🛠 Languages and tools</h3>
+<h3>Education</h3>
+<p>
+  I am currently in college. 
+  <br/>
+  - Major in Computer Science
+  <br/>
+  - Minor in Quantum Computing for Cyber
+</p>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Nextjs logo"/> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="lua logo"/> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="lua logo"/> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"/> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"/> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="lua logo"/> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="lua logo"/> <img width="12" />
-</div>
+<h3>Programming Languages</h3>
+<p>
+  Rust - I have been programming in Rust since 2024 and it's my preferred language. <br/>
+  C - I started using C in the fall of 2025, as it's the programming language my college uses. I do like C. <br/>
+  Python - Python is one of the first languages I started on in early 2018; however, I stopped using it but would like to pick it up again. <br/>
+  Java - I vaguely learned Java for FRC in high school and haven't used it much since. I may pick it up back in the future.<br/>
+  Typescript - I learned for API usage. Not really much to say about this one.<br/><br/>
+
+  Tailwind & React / HTML - I just use these for my website. I should do more projects with them.
+</p>
+
+###
 
 </br>
 
@@ -47,24 +50,6 @@
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=icebare098&count=5&unique=false" alt="Spotify recently played"  />
     </a>
 </div>
-
-<!-- <div class="flex">
-  <div align="left">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=RyuIsStrange.RyuIsStrange&"  />
-  </div>
-  
-  <div align="left">
-    <a href="https://open.spotify.com/user/icebare098">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=icebare098&count=5&unique=false" alt="Spotify recently played"  />
-    </a>
-  </div>
-
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=RyuIsStrange&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RyuIsStrange&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </div>
-</div>
--->
 
 <!--
 **RyuIsStrange/RyuIsStrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
