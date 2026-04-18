@@ -14,7 +14,7 @@
   <br/> 
   -🌱 I’m currently expanding my skills in Rust and pursuing a degree in Computer Science   
   <br/> 
-  -⚡In my free time I am working on my <a href="/Distributed-Task-Scheduler>Distributed Task Scheduler</a>
+  -⚡In my free time I am working on my <a href="/Distributed-Task-Scheduler">Distributed Task Scheduler</a>
 </p>
 
 ###
