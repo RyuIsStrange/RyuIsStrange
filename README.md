@@ -1,11 +1,11 @@
 ### 
 
-<h1 align="center">Hi👋, I'm Ryu. A  self taught Software Engineer. </h1>
+<h1 align="center">Hi👋, I'm Ryu, a self-taught Software Engineer. </h1>
 
 ###
 
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -17,9 +17,8 @@
   -⚡In my free time I am working on my <a href="https://github.com/RyuIsStrange/Distributed-Task-Scheduler">Distributed Task Scheduler</a>
 </p>
 
-###
 
-<h3>Education</h3>
+<h4>Education</h4>
 <p>
   I am currently in college. 
   <br/>
@@ -28,9 +27,8 @@
   - Minor in Quantum Computing for Cyber
 </p>
 
-###
 
-<h3>Programming Languages</h3>
+<h4>Programming Languages</h4>
 <p>
   Rust - I have been programming in Rust since 2024 and it's my preferred language. <br/>
   C - I started using C in the fall of 2025, as it's the programming language my college uses. I do like C. <br/>
