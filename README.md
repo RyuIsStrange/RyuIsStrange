@@ -14,7 +14,7 @@
   <br/> 
   -🌱 I’m currently expanding my skills in Rust and pursuing a degree in Computer Science   
   <br/> 
-  -⚡In my free time I am learning COBOL and making a MVP (Progress can be found <a herf="https://github.com/RyuIsStrange/COBOL-BTP-MVP">here</a>)
+  -⚡In my free time I am learning COBOL and working on a MVP (Progress can be found <a href="https://github.com/RyuIsStrange/COBOL-BTP-MVP">here</a>).
 </p>
 
 
